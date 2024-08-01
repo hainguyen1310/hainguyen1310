@@ -3,7 +3,6 @@
 <h3 align="center">A web developer in .Net technology from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
-- 🔭 I’m currently working on [Sinh Vien UTE](https://github.com/hainguyen1310/SinhvienUTE)
 
 - 🌱 I’m currently learning **React Native, Python**
 
